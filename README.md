@@ -1,4 +1,4 @@
-# Happy-Birthday-GreetingCard
+# Happy Birthday Greeting Card
 
-### _About the application_:
-#### This application is a birthday greeting card. It is also an exercise from Google to learn mobile development using Kotlin language.
+### Overview
+This application is a mobile birthday greeting card, developed as part of a mobile development course offered by Google. The project provides an opportunity to learn Kotlin language and its application in mobile development.
